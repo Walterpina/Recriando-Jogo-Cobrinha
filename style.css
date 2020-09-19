@@ -1,0 +1,15 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(7, 121, 121);
+    background-color: #9fe7d1;
+}
+
+canvas {
+    border-style: solid;
+    border-color: green;
+}
